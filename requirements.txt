@@ -2,4 +2,4 @@ pandas == 1.4.4
 numpy == 1.23.3
 Streamlit== 1.25.0
 EasyOCR == 1.7.0
-Image ==  2.31.1
+Image ==  1.5.33
