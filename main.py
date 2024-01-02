@@ -1,3 +1,7 @@
+import subprocess
+
+# Run the pip install command
+subprocess.check_call(['pip', 'install', '-r', 'requirements.txt'])
 import streamlit as st
 import os
 from streamlit_option_menu import option_menu
